@@ -1,0 +1,15 @@
+PROJECT:STUDENT ATTENDANCE BASED ON  FACE RECOGNITION SYSTEAM
+Before starting the project 
+Install some library
+1.opencv-python
+2.numpy
+3.cmake
+4.os
+5.face-recognition 
+6.dlib version
+7.pillow
+8.pyttsx3
+
+
+
+you need to install visual studio communitymark desktop development with c++
